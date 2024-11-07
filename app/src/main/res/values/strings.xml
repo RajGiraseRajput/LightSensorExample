@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LightSensorExample</string>
+    <string name="sensor_value">Sensor Value</string>
+</resources>
